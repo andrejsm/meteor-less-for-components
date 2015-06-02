@@ -1,10 +1,9 @@
-# LESS for components
+# LESS for components ![Travis CI](https://travis-ci.org/anrem/meteor-less-for-components.svg)
 
 Opinionated LESS wrapper package for simpler work with BEM or any other components based methodology.
 
-![travis](https://travis-ci.org/anrem/meteor-less-for-components.svg)
 
-Installation
+## Installation
 ```
 meteor add ouk:less-for-components
 ```
