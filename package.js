@@ -1,6 +1,6 @@
 Package.describe({
 	name: 'ouk:less-for-components',
-	version: '1.0.0',
+	version: '1.0.1',
 	summary: 'Opinionated LESS wrapper package for simpler work with BEM or any other components based methodology',
 	git: 'https://github.com/anrem/meteor-less-for-components.git',
 })
