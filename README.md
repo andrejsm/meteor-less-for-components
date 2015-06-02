@@ -10,8 +10,8 @@ meteor add ouk:less-for-components
 
 This package is intended to make simpler development of view components. Using this package allows you to easily rearrange your project structure without worrying about tight style dependencies. As well you have no problems tossing view components from project to project.
 
-This package has only 1 mandatory rule - a `theme.less` file must be created
-anywhere in your project.
+This package has only 1 mandatory rule - a `theme.less` file must be created anywhere in your project. Theme file will be automatically imported into all* LESS files. (_* For exceptions keep reading_)
+
 
 Also you must be aware of some package logic:
 - only first `theme.less` file found in project is loaded, rest are ignored
